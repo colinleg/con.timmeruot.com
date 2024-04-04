@@ -15,3 +15,11 @@
 | share documents only with searchers   |               |
 | this page doesn't exist               |               |
 | come back                             |               |
+| translate                             |               |
+| vietnamese description                |               |
+| $your-language description            |               |
+| page n°                               |               |
+| click on ad to see description        |               |
+| share                                 |               |
+| contact ( email )                     |               |
+| see the ad                            |               |
