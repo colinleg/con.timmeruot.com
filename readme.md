@@ -7,15 +7,19 @@ We only need a few words to be translated but it would be great if the translati
 Here are some templates: 
 
 [The content](./translate-content.md)
+
 The content which will be generated mainly on the `/home` and `/about` pages
 
 [Pages names](./translate-pages.md)
+
 The name of pages in url
 
 [Seo metas](./translate-seo.md)
+
 The title and metas fields to ensure that ads will be visible in your language
 
 [Words](./translate-words.md)
+
 Some words to translate
 
 Thanks in advance for your contribution.
