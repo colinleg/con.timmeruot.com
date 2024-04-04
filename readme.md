@@ -1,8 +1,11 @@
 # Template translate
 
 [The content](./translate-content.md)
+
 [Pages names](./translate-pages.md)
+
 [Seo metas](./translate-seo.md)
+
 [Words](./translate-words.md)
 
 Templates for content writer, participating in the project to help vietnamese adoptees around the world, to search their biological parents.
