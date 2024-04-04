@@ -22,4 +22,5 @@ The title and metas fields to ensure that ads will be visible in your language
 
 Some words to translate
 
+Please feel free to suggest any field that can be add to enrich the app.
 Thanks in advance for your contribution.
